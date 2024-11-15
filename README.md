@@ -1,9 +1,7 @@
 ### NAME: KARTHIKEYAN R
 ### REGISTER NO: 212222240046
 ### DATE: 29/10/24
-### EX. NO.6
-<H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
-
+### EX. NO.6 Heart attack prediction using MLP
 ### Aim: 
 To construct a  Multi-Layer Perceptron to predict heart attack using Python
 ### Algorithm:
@@ -18,7 +16,6 @@ Step 8:Make predictions on the testing set using mlp.predict(X_test).<BR>
 Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) with the actual labels (y_test) using accuracy_score().<BR>
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
-
 ### Program: 
 ```
 import numpy as np
